@@ -1,0 +1,21 @@
+<theme>
+  <formatVersion>4</formatVersion>
+  <include>./../slice.xml</include>
+  <view name="system">
+       <image name="logo">
+          <path>./_inc/system.png</path>
+       </image>
+  </view>
+  <view name="basic, grid, video, detailed">
+    <image name="logo">
+      <path>./logo.svg</path>
+    </image>
+    <image name="gamelist_background" extra="true">
+           <origin>0 0</origin>
+           <pos>0 0</pos>
+           <size>1 1</size>
+           <tile>false</tile>
+           <path>./background.png</path>
+    </image>
+  </view>
+</theme>
