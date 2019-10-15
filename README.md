@@ -4,7 +4,7 @@
 
 Theme elements inspired and sampled from:
  * es-theme-next-pixel by [SamYStudiO](https://github.com/SamYStudiO/es-theme-next-pixel)
- * Basevid Theme from [ES Toolkit](https://github.com/mattrixk/es-toolkit)
+ * [Basevid Theme](https://github.com/mattrixk/es-toolkit/tree/master/emulationstation/.emulationstation/themes/basevid)
  
 <h3>Elements</h4>
 
