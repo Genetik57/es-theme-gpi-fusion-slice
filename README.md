@@ -66,12 +66,11 @@ Please note: If you would like to request a particular system added, Please open
 | :---: | :---: | :---: | :---:
 | Atari 2600 |  Nintendo 64 | Sega GameGear | Arcade 
 | Atari 5200 |  Nintendo Entertainment System | Sega Genesis / Sega Megadrive | Colecovision 
-| Atari 7800 | Nintendo GameBoy | Sega Master System | Mame
-| Atari Lynx | Nintendo GameBoy Advance | Sega32x | NeoGeo Pocket Color
-| Atari ST  | Nintendo GameBoy Color | SegaCD |  Odyssey 2 / Videopac
-|  |  Nintendo VirtualBoy |  | PC Engine 
-|  |  |  | SuperGrafx
-|  |  |  | TurboGrafx 16
+| Atari 7800 | Nintendo GameBoy | Sega Master System | Commodore 64
+| Atari Lynx | Nintendo GameBoy Advance | Sega32x | MAME
+| Atari ST  | Nintendo GameBoy Color | SegaCD | NeoGeo Pocket Color  
+|  |  Nintendo VirtualBoy |  | Odyssey 2 / Videopac
+|  |  |  | PC Engine SuperGrafx / TurboGrafx 16
 |  |  |  | Sony Playstation
 |  |  |  | Sony PSP
 |  |  |  | Ports 
