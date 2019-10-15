@@ -60,6 +60,8 @@ w/Logo | w/o Logo
 
 <h3>Supported Systems:</h3>
 
+Please note: If you would like to request a particular system added, Please open an issue and I will do my best to add it. 
+
 | Atari | Nintendo | Sega | Other 
 | :---: | :---: | :---: | :---:
 | Atari 2600 |  Nintendo 64 | Sega GameGear | Arcade 
