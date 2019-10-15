@@ -70,7 +70,7 @@ Please note: If you would like to request a particular system added, Please open
 | Atari Lynx | Nintendo GameBoy Advance | Sega32x | MAME
 | Atari ST  | Nintendo GameBoy Color | SegaCD | NeoGeo Pocket Color  
 |  |  Nintendo VirtualBoy |  | Odyssey 2 / Videopac
-|  |  |  | PC Engine SuperGrafx / TurboGrafx 16
+|  |  |  | PC Engine / TurboGrafx 16
 |  |  |  | Sony Playstation
 |  |  |  | Sony PSP
 |  |  |  | Ports 
