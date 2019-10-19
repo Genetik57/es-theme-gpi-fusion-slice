@@ -60,7 +60,7 @@ author:         Kaleben0
          <selectorColor>cc0000ff</selectorColor>
          <selectedColor>ffffff</selectedColor>
          <primaryColor>eaeaea</primaryColor>
-         <secondaryColor>0000cc</secondaryColor>
+         <secondaryColor>0066cc</secondaryColor>
          <fontPath>./_inc/fonts/OpenSans-Regular.ttf</fontPath>
          <fontSize>0.045</fontSize>
          <scrollSound>./_inc/sounds/select.wav</scrollSound>
@@ -138,7 +138,7 @@ author:         Kaleben0
          <selectorColor>cc0000ff</selectorColor>
          <selectedColor>ffffff</selectedColor>
          <primaryColor>eaeaea</primaryColor>
-         <secondaryColor>0000cc</secondaryColor>
+         <secondaryColor>0066cc</secondaryColor>
          <fontPath>./_inc/fonts/OpenSans-Regular.ttf</fontPath>
          <fontSize>0.045</fontSize>
          <scrollSound>./_inc/sounds/select.wav</scrollSound>
