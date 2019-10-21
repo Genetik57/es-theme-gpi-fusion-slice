@@ -68,9 +68,10 @@ Please note: If you would like to request a particular system added, Please open
 | Atari 5200 |  Nintendo Entertainment System | Sega Genesis / Sega Megadrive | Colecovision 
 | Atari 7800 | Nintendo FDS| Sega Master System | Commodore 64
 | Atari Lynx | Nintendo GameBoy | Sega32x | MAME
-| Atari ST  | Nintendo GameBoy Advance| SegaCD | NeoGeo Pocket Color  
-|  |  Nintendo GameBoy Color  |  | Odyssey 2 / Videopac
-|  | Nintendo VirtualBoy |  | PC / DosBox
+| Atari ST  | Nintendo GameBoy Advance| SegaCD | SNK NeoGeo
+|  |  Nintendo GameBoy Color  |  | SNK NeoGeo Pocket Color
+|  | Nintendo VirtualBoy |  | Odyssey 2 / Videopac
+|  |  |  | PC / DosBox
 |  |  |  | PC Engine / TurboGrafx 16
 |  |  |  | Sony Playstation
 |  |  |  | Sony PSP
