@@ -110,7 +110,7 @@ author:         Kaleben0
       </text>
       <image name="md_image">
         <origin>0 0</origin>
-        <pos>.25 0.20</pos>
+        <pos>.25 0.22</pos>
         <zIndex>35</zIndex>
         <maxSize>0.65 0.5</maxSize>
       </image>
